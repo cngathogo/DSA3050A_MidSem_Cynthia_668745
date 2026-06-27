@@ -59,10 +59,6 @@ The raw data has a lot of issues: missing customer IDs, duplicate entries, colum
 * **Line Chart ("Monthly Sales Trend"):** Shows how sales go up and down month by month over time.
 * **Donut Chart ("Order Processing Distribution"):** Breaks down standard sales versus canceled orders.
 * **Map Visual:** Plots bubbles over countries, where bigger bubbles mean more sales.
-* **Treemap ("Top Performing Products"):** Shows our best-selling items based on quantity.
-* **Gauge Visual:** Compares our current total sales against a fixed target goal.
-* **Matrix Grid:** A pivot table crossing years and quarters to show sales trends.
-* **Detailed Table:** A row-by-row lookup table at the bottom for auditing specific transaction details.
 
 ---
 
@@ -76,3 +72,9 @@ During the data profile check, the minimum values for quantity and price showed 
 
 ### 3. Relying Too Heavily on the UK Market
 By looking at the map and cross-filtering the charts, it is immediately obvious that **over 80% of all sales** come from the UK (Domestic) market. Even though the business ships internationally, it relies almost entirely on local UK buyers. This is a big risk for the business because if the UK economy slows down, sales will drop drastically. The business needs to start marketing more heavily to international segments to split the risk.
+
+* **Treemap ("Top Performing Products"):** Shows our best-selling items based on quantity.
+* **Gauge Visual:** Compares our current total sales against a fixed target goal.
+* **Matrix Grid:** A pivot table crossing years and quarters to show sales trends.
+* **Detailed Table:** A row-by-row lookup table at the bottom for auditing specific transaction details.
+
