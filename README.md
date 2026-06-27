@@ -10,7 +10,8 @@
 ## 📊 About the Dataset
 * **Source:** UCI Machine Learning Repository (Online Retail II dataset). It contains real e-commerce sales transactions.
 * **Size:** Over 10,000 rows and 8 original columns (`Invoice`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `Price`, `Customer ID`, and `Country`).
-
+### 💾 Raw Dataset Access
+* 📄 **[Download Raw Online Retail II Dataset (CSV)]https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci** *Link provided due to GitHub browser file size limits)*
 ---
 
 ## 🎯 The Business Problem
